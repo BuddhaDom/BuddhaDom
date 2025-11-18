@@ -1,6 +1,5 @@
 <!--style=for-the-badge-->
 # Hey-hey, I'm Domenico. [![Portfolio](https://img.shields.io/badge/Portfolio-Gautama.casa-b16ba4?style=for-the-badge)](https://gautama.casa/) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/domenico-crovetto/) [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)](https://buddhadom.itch.io/) 
-
 <div align="center">
   <table>
     <tr>
@@ -58,5 +57,8 @@
   <a href="https://store.steampowered.com/app/4057180/ESSOMENIC/"><img height="35" alt="ESSOMENIC" src="https://github.com/user-attachments/assets/8d20e808-4e24-488e-84f1-54ddf8e79143" /></a> 
   as part of
   <a href="https://github.com/Brygd-Interactive"><img height="35" alt="BRYGD Logo" src=https://avatars.githubusercontent.com/u/197101074?v=4" /></a>
-  <a href="https://github.com/Brygd-Interactive">BRYGD Interactive</a>
+  <a href="https://github.com/Brygd-Interactive">BRYGD Interactive</a> on my free time.
 </p>
+
+### Feel free to reach out!
+
