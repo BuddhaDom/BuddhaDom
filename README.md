@@ -28,7 +28,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FFF" alt="Arch Linux" />
         <img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=FFF" alt="KDE Plasma" />
-        <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=FFF" alt="Windows" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge" alt="Windows" />
       </td>
     </tr>
     <tr>
