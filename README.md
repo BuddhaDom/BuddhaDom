@@ -35,13 +35,13 @@
       <td>
         <strong>Other tools:</strong><br/>
         <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET" />
-        <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" />
         <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" alt="GraphQL" />
+        <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff" alt="MKDocs" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
         <img src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff" alt="Hugo" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
-        <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" />
         <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare" />
       </td>
     </tr>
