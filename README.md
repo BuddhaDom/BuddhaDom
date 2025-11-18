@@ -40,6 +40,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
         <img src="https://img.shields.io/badge/VR/XR-%231A1A1A.svg?logo=oculus&logoColor=white" alt="VR/XR" />
         <img src="https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff" alt="MKDocs" />
+        <br/>
         <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" />
         <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
