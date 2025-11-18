@@ -1,4 +1,4 @@
-# Hey-hey, I'm Buddha
+# Hey-hey, I'm Buddha.
 
 <!--style=for-the-badge-->
 <div align="center">
