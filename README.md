@@ -11,9 +11,6 @@
         <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" /></a>
         <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++" /></a>
       </td>
-      <td rowspan="4" style="vertical-align: middle;">
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhaDom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=mathematica" /></a>
-      </td>
     </tr>
     <tr>
       <td>
