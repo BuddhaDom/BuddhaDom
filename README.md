@@ -35,10 +35,12 @@
         <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET" /></a>
         <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" alt="GraphQL" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="Gitlab" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github" /></a>
         <a href="#"><img src="https://img.shields.io/badge/VR/XR-%231A1A1A.svg?logo=oculus&logoColor=white" alt="VR/XR" /></a>
         <a href="#"><img src="https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff" alt="MKDocs" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" /></a>
         <br/>
+        <a href="#"><img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" /></a>
         <a href="#"><img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare" /></a>
